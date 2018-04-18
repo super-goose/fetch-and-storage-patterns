@@ -1,4 +1,5 @@
-{
+[
     {"name": "Ford", "id": "ford"},
     {"name": "Chevrolet", "id": "chevrolet"},
-}
+    {"name": "Alfa Romeo", "id": "alfa-romeo"}
+]
